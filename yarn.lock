@@ -3,6 +3,35 @@
 
 tough-cookie@^2.3.3:
   version "2.3.3"
+  stringstream@^0.0.6:
+  version "0.0.6"
+  sshpk@^1.13.2:
+  version "1.13.2"
+  extend@^3.0.2:
+  version "3.0.2"
+  tar@^2.2.2:
+  version "2.2.2"
+  cryptiles@^4.1.2:
+  version "4.1.2"
+  deep-extend@^0.5.1:
+  version "0.5.1"
+  acorn@^6.4.1:
+  version "6.4.1"
+  minimist@^1.2.3:
+  version "1.2.3"
+  qs@^6.3.2:
+  version "6.3.2"
+  fstream@^1.0.12:
+  version "1.0.12"
+  kind-of@^6.0.3:
+  version "6.0.3"
+  tunnel-agent@^0.6.0:
+  version "0.6.0"
+  debug@^2.6.9:
+  version "2.6.9"
+  hoek@^4.2.1:
+  version "4.2.1"
+  
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.5.5.tgz#bc0782f6d69f7b7d49531219699b988f669a8f9d"
